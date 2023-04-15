@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+vpc_peering_data.json
+vpc_peering_visualization.html
+.vscode
